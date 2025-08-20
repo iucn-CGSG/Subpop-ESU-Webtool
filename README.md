@@ -6,8 +6,9 @@
     as employed by the IUCN (i.e., IUCN Red List and IUCN Green Status of Species) and other entities. 
     For more information, please look at the scientific paper accompanying this framework (https://ecoevorxiv.org/repository/view/9129/).
   </p>
-  <img src="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Framework_schematic_webtool.jpg alt="2-phase framework" width= "80%">
-  <p>Figure 1 – Lines of evidence (A) and the Two-phase framework (B) to assess the strength of evidence for subpopulations and Evolutionarily Significant Units (ESUs). Different lines of evidence are highlighted in color (dark green, green and blue). Maximum scores are the numbers provided below each category in the boxes based on genetic or non-genetic evidence from the literature and other documentation. Below each phase the scoring system is explained by exemplary imaginary ‘scenarios’.</p>
+  
+  <img src="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Framework_schematic_webtool.jpg" alt="2-phase framework" width= "80%">
+  <h6>Figure 1 – Lines of evidence (A) and the Two-phase framework (B) to assess the strength of evidence for subpopulations and Evolutionarily Significant Units (ESUs). Different lines of evidence are highlighted in color (dark green, green and blue). Maximum scores are the numbers provided below each category in the boxes based on genetic or non-genetic evidence from the literature and other documentation. Below each phase the scoring system is explained by exemplary imaginary ‘scenarios’.</h6>
 
 
 
@@ -34,7 +35,7 @@
 
   <h2 id="Step-by-Step Guide">Step-by-Step Guide</h2>
   <p>
-    The Purpose of this guide is to help users navigate a two-phase webtool to apply a framework for identifying subpopulations and Evolutionarily Significant Units (ESUs) in species based on different data types (genetic, recorded biological and inferred; Figure 1A). It first explains the general features of the webtool and then presents two case studies to demonstrate how the tool can be applied.
+    The purpose of this guide is to help users navigate a two-phase webtool to apply a framework for identifying subpopulations and Evolutionarily Significant Units (ESUs) in species based on different data types (genetic, recorded biological and inferred; Figure 1A). It first explains the general features of the webtool and then presents two case studies to demonstrate how the tool can be applied.
   </p>
 
   <ul>
