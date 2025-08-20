@@ -6,7 +6,7 @@
     as employed by the IUCN (i.e., IUCN Red List and IUCN Green Status of Species) and other entities. 
     For more information, please look at the scientific paper accompanying this framework (https://ecoevorxiv.org/repository/view/9129/).
   </p>
-<img src="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Framework_schematic_webtool.jpg alt="2-phase framework">
+<img src="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Framework_schematic_webtool.jpg alt="2-phase framework" width= "80%">
 
   <div class="toc">
     <strong>Contents</strong>
