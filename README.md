@@ -67,12 +67,12 @@
 
   <ul>
     <li>
-      Geue J.C*., da Silva J.M. and Russo IM. (submitted to Biodiversity informatics).
+      Geue J.C., da Silva J.M. and Russo IM. (submitted to Biodiversity informatics).
       <em>From Framework to Practice: Operational tools for Identifying Subpopulations and Evolutionary Significant Units to Support Conservation Management.</em>
     </li>
     <li>
-      Geue J.C*., Bertola L.D., Bloomer P., Brüniche-Olsen A., da Silva J.M., DeWoody J.A., Fedorca A., Godoy J. A., Grueber C.E., Hunter M.E.*, Hvilsom C., Jensen E.L., 
-      Kopatz A.,  MacDonald  A.J.,  Pérez-Espona  S.,  Piaggio  A.J.,  Pierson  J.,  Russo  IM.*,  Senn  H., Segelbacher G.*, Sunnucks P., van Oosterhout C., Leigh D.M*. (under review).
+      Geue J.C., Bertola L.D., Bloomer P., Brüniche-Olsen A., da Silva J.M., DeWoody J.A., Fedorca A., Godoy J. A., Grueber C.E., Hunter M.E., Hvilsom C., Jensen E.L., 
+      Kopatz A.,  MacDonald  A.J.,  Pérez-Espona  S.,  Piaggio  A.J.,  Pierson  J.,  Russo  IM.*,  Senn  H., Segelbacher G., Sunnucks P., van Oosterhout C., Leigh D.M. (under review).
       <em>Practical genetic diversity protection: an accessible framework for IUCN subpopulation and Evolutionarily Significant Unit identification.</em>
       EcoEvoRxiv (Pre-Print).
       <a href="(https://ecoevorxiv.org/repository/view/9129/" target="_blank" rel="noopener">https://ecoevorxiv.org/repository/view/6104/</a>.
