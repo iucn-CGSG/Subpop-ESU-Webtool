@@ -23,7 +23,7 @@
   </div>
 
   <h2 id="contents">The webtool and how to access it</h2>
-  <p>The webtool can be accessed through www.congenafrica.com/demo-survey/ and consist of several pages:</p>
+  <p>The webtool can be accessed through www.congenafrica.com/survey/ and consist of several pages:</p>
   <ol>
     <li><strong>Landing page</strong> which provides users with the most important aspects of the framework and tool.</li>
     <li><strong>Phase 1</strong> to identify genetically meaningful subpopulations.</li>
