@@ -34,7 +34,7 @@
 
   <h2 id="Step-by-Step Guide">Step-by-Step Guide</h2>
   <p>
-    The purpose of this guide is to help users navigate a two-phase webtool to apply a framework for identifying subpopulations and Evolutionarily Significant Units (ESUs) in species based on different data types (genetic, recorded biological and inferred; Figure 1A). It first explains the general features of the webtool and then presents a detailled case study to demonstrate how the tool can be applied.
+    The purpose of this guide is to help users navigate a two-phase webtool to apply a framework for identifying subpopulations and Evolutionarily Significant Units (ESUs) in species based on different data types (genetic, recorded biological and inferred; Figure 1A). It first explains the general features of the webtool and then presents a detailled case study (Western leopard toad, <i>Sclerophrys pantherina</i>)to demonstrate how the tool can be applied.
   </p>
 
   <ul>
@@ -43,7 +43,7 @@
       <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Step_by_Step_GUIDE_From_Framework_to_Practice.pdf">here</a>.
     </li>
     <li>
-      All the references used for the two case studies presented in the guide can be found in the folder "Case studies".
+      All the references used for the case study presented in the guide can be found in the folder "Case studies".
     </li>
   </ul>
 
@@ -62,7 +62,7 @@
   </ul>
   <h2 id="Case studies">Case studies</h2>
   <p>
-    A folder containing case studies presented in the scientific paper of the framework and in the Step-by-step guide.
+    A folder containing case studies presented in the scientific paper of the framework (the Hawaiian koa, <i>Acacia koa</i> and the Black wildebeest, <i>Connochaetes gnou</i>) and in the Step-by-step guide (Western leopard toad, <i>Sclerophrys pantherina</i>).
   </p>
 
   <ul>
@@ -79,9 +79,9 @@
     </li>
     <li>
       Geue J.C., Bertola L.D., Bloomer P., Brüniche-Olsen A., da Silva J.M., DeWoody J.A., Fedorca A., Godoy J. A., Grueber C.E., Hunter M.E., Hvilsom C., Jensen E.L., 
-      Kopatz A.,  MacDonald  A.J.,  Pérez-Espona  S.,  Piaggio  A.J.,  Pierson  J.,  Russo  IM.,  Senn  H., Segelbacher G., Sunnucks P., van Oosterhout C., Leigh D.M. (under review).
+      Kopatz A.,  MacDonald  A.J.,  Pérez-Espona  S.,  Piaggio  A.J.,  Pierson  J.,  Russo  IM.,  Senn  H., Segelbacher G., Sunnucks P., van Oosterhout C., Leigh D.M. accepted).
       <em>Practical genetic diversity protection: an accessible framework for IUCN subpopulation and Evolutionarily Significant Unit identification.</em>
-      EcoEvoRxiv (Pre-Print).
+      BioScience (DOI: 10.1093/biosci/biag042).
       <a href="(https://ecoevorxiv.org/repository/view/9129/" target="_blank" rel="noopener">https://ecoevorxiv.org/repository/view/6104/</a>.
       DOI: <a href="https://doi.org/10.32942/X2RK9Q" target="_blank" rel="noopener">https://doi.org/10.32942/X2RK9Q</a>
     </li>
