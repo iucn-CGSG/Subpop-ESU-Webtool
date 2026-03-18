@@ -7,7 +7,7 @@
     For more information, please look at the scientific paper accompanying this framework (https://ecoevorxiv.org/repository/view/9129/).
   </p>
   
-  <img src="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Framework_schematic_webtool.jpg" alt="2-phase framework" width= "80%">
+  <img src="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Subpop_ESU_Framework_schematic.jpg" alt="2-phase framework" width= "80%">
   <h6>Figure 1 – Lines of evidence (A) and the Two-phase framework (B) to assess the strength of evidence for subpopulations and Evolutionarily Significant Units (ESUs). Different lines of evidence are highlighted in color (dark green, green and blue). Maximum scores are the numbers provided below each category in the boxes based on genetic or non-genetic evidence from the literature and other documentation. Below each phase the scoring system is explained by exemplary imaginary ‘scenarios’.</h6>
 
 
