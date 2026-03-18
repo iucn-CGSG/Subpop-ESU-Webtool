@@ -27,15 +27,13 @@
   <ol>
     <li><strong>Landing page</strong> which provides users with the most important aspects of the framework and tool.</li>
     <li><strong>Phase 1</strong> to identify genetically meaningful subpopulations.</li>
-    <li><strong>Phase 1B</strong> to assess if the species is comprised out of one metapopulation.</li>
      <li><strong>Phase 2</strong> to identify Evolutionarily Significant Units (ESUs)s.</li>
-    <li><strong>Phase 2B</strong> to assess if the species is comprised out of one ESU.</li>
   </ol>
 
 
   <h2 id="Step-by-Step Guide">Step-by-Step Guide</h2>
   <p>
-    The purpose of this guide is to help users navigate a two-phase webtool to apply a framework for identifying subpopulations and Evolutionarily Significant Units (ESUs) in species based on different data types (genetic, recorded biological and inferred; Figure 1A). It first explains the general features of the webtool and then presents two case studies to demonstrate how the tool can be applied.
+    The purpose of this guide is to help users navigate a two-phase webtool to apply a framework for identifying subpopulations and Evolutionarily Significant Units (ESUs) in species based on different data types (genetic, recorded biological and inferred; Figure 1A). It first explains the general features of the webtool and then presents a detailled case study to demonstrate how the tool can be applied.
   </p>
 
   <ul>
