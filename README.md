@@ -18,6 +18,7 @@
       <li><a href="#contents">The webtool and how to access it</a></li>
       <li><a href="#Step-by-Step Guide">Step-by-Step Guide</a></li>
       <li><a href="#Overview of the testing process">Overview of the testing process</a></li>
+	   <li><a href="#Case Studies">A folder containing case studies presented in the scientific paper of the framework and in the Step-by-step guide</a></li>
       <li><a href="#how-to-cite">How to cite</a></li>
     </ol>
   </div>
@@ -59,7 +60,15 @@
 	   <p>Please note: Genetic or genomic data are required in Phase 2 to achieve a score of ≥10 and delineate genetically meaningful ESUs.</p>
     </li>
   </ul>
-  
+  <h2 id="Step-by-Step Guide">Step-by-Step Guide</h2>
+  <p>
+    The purpose of this guide is to help users navigate a two-phase webtool to apply a framework for identifying subpopulations and Evolutionarily Significant Units (ESUs) in species based on different data types (genetic, recorded biological and inferred; Figure 1A). It first explains the general features of the webtool and then presents a detailled case study to demonstrate how the tool can be applied.
+  </p>
+
+  <ul>
+    <li>
+     The Step-by-step guide is available as PDF
+      <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Step_by_Step_GUIDE_From_Framework_to_Practice.pdf">here</a>.
 <h2 id="how-to-cite">How to cite</h2>
   <p>If you use the webtool to apply the two-phase framework, then please cite both:</p>
 
