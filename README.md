@@ -4,7 +4,7 @@
     This repository holds the access to a webtool and the guidance document to help users navigate a two-phase webtool to apply a framework for identifying subpopulations and Evolutionarily Significant Units (ESUs) 
     in species based on different data types (genetic, recorded biological and inferred). This two-phase framework is intended to help identify appropriate units for biodiversity threat assessments 
     as employed by the IUCN (i.e., IUCN Red List and IUCN Green Status of Species) and other entities. 
-    For more information, please look at the scientific paper accompanying this framework (https://ecoevorxiv.org/repository/view/9129/).
+    For more information, please look at the scientific paper accompanying this framework (DOI: 10.1093/biosci/biag042).
   </p>
   
   <img src="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Subpop_ESU_Framework_schematic.jpg" alt="2-phase framework" width= "80%">
@@ -62,13 +62,10 @@
   </ul>
   <h2 id="Case studies">Case studies</h2>
   <p>
-    A folder containing case studies presented in the scientific paper of the framework (the Hawaiian koa, <i>Acacia koa</i> and the Black wildebeest, <i>Connochaetes gnou</i>) and in the Step-by-step guide (Western leopard toad, <i>Sclerophrys pantherina</i>).
+    A folder <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case studies">here</a>. containing case studies presented in the scientific paper of the framework (the Hawaiian koa, <i>Acacia koa</i> and the Black wildebeest, <i>Connochaetes gnou</i>) and in the Step-by-step guide (Western leopard toad, <i>Sclerophrys pantherina</i>).
   </p>
 
   <ul>
-    <li>
-     The Step-by-step guide is available as PDF
-      <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Step_by_Step_GUIDE_From_Framework_to_Practice.pdf">here</a>.
 <h2 id="how-to-cite">How to cite</h2>
   <p>If you use the webtool to apply the two-phase framework, then please cite both:</p>
 
@@ -83,7 +80,7 @@
       <em>Practical genetic diversity protection: an accessible framework for IUCN subpopulation and Evolutionarily Significant Unit identification.</em>
       BioScience (DOI: 10.1093/biosci/biag042).
       <a href="(https://ecoevorxiv.org/repository/view/9129/" target="_blank" rel="noopener">https://ecoevorxiv.org/repository/view/6104/</a>.
-      DOI: <a href="https://doi.org/10.32942/X2RK9Q" target="_blank" rel="noopener">https://doi.org/10.32942/X2RK9Q</a>
+      DOI: <a href="DOI: 10.1093/biosci/biag042" target="_blank" rel="noopener">DOI: 10.1093/biosci/biag042</a>
     </li>
   </ul>
   <hr />
