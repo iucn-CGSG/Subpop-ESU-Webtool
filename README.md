@@ -43,7 +43,7 @@
       <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Step_by_Step_GUIDE_From_Framework_to_Practice.pdf">here</a>.
     </li>
     <li>
-      All the references used for the case study presented in the guide can be found in the folder "Case studies".
+      All the references used for the case study presented in the guide can be found in the folder Case studies <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies">here</a>.
     </li>
   </ul>
 
@@ -62,7 +62,7 @@
   </ul>
   <h2 id="Case studies">Case studies</h2>
   <p>
-    A folder <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case studies">here</a>. containing case studies presented in the scientific paper of the framework (the Hawaiian koa, <i>Acacia koa</i> and the Black wildebeest, <i>Connochaetes gnou</i>) and in the Step-by-step guide (Western leopard toad, <i>Sclerophrys pantherina</i>).
+    A folder <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies">here</a> containing case studies presented in the scientific paper of the framework (the Hawaiian koa, <i>Acacia koa</i> and the Black wildebeest, <i>Connochaetes gnou</i>) and in the Step-by-step guide (Western leopard toad, <i>Sclerophrys pantherina</i>).
   </p>
 
   <ul>
@@ -77,7 +77,7 @@
     <li>
       Geue J.C., Bertola L.D., Bloomer P., Brüniche-Olsen A., da Silva J.M., DeWoody J.A., Fedorca A., Godoy J. A., Grueber C.E., Hunter M.E., Hvilsom C., Jensen E.L., 
       Kopatz A.,  MacDonald  A.J.,  Pérez-Espona  S.,  Piaggio  A.J.,  Pierson  J.,  Russo  IM.,  Senn  H., Segelbacher G., Sunnucks P., van Oosterhout C., Leigh D.M. accepted).
-      <em>Practical genetic diversity protection: an accessible framework for IUCN subpopulation and Evolutionarily Significant Unit identification.</em>
+      <em>A practical framework for identifying genetic subpopulations and ESUs: insights for IUCN assessments and broader management.</em>
       BioScience (DOI: 10.1093/biosci/biag042).
       <a href="(https://ecoevorxiv.org/repository/view/9129/" target="_blank" rel="noopener">https://ecoevorxiv.org/repository/view/6104/</a>.
       DOI: <a href="DOI: 10.1093/biosci/biag042" target="_blank" rel="noopener">DOI: 10.1093/biosci/biag042</a>
