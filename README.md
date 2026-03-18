@@ -39,8 +39,8 @@
 
   <ul>
     <li>
-     The Step-by-step guide is available as PDF
-      <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Step_by_Step_GUIDE_From_Framework_to_Practice.pdf">here</a>.
+     The Step-by-step guide is available as
+      <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Step_by_Step_GUIDE_From_Framework_to_Practice.pdf">PDF</a>.
     </li>
     <li>
       All the references used for the case study presented in the guide can be found in the folder Case studies <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies">here</a>.
@@ -62,7 +62,9 @@
   </ul>
   <h2 id="Case studies">Case studies</h2>
   <p>
-    A folder <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies">here</a> containing case studies presented in the scientific paper of the framework (the Hawaiian koa, <i>Acacia koa</i> and the Black wildebeest, <i>Connochaetes gnou</i>) and in the Step-by-step guide (Western leopard toad, <i>Sclerophrys pantherina</i>).
+    A folder <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies">here</a> containing case studies presented in the scientific paper of the framework (the Hawaiian koa,
+	  Acacia_koa
+	  <i>Acacia koa</i> and the Black wildebeest, <i>Connochaetes gnou</i>) and in the Step-by-step guide (Western leopard toad, <i>Sclerophrys pantherina</i>).
   </p>
 
   <ul>
