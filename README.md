@@ -43,7 +43,7 @@
       <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Step_by_Step_GUIDE_From_Framework_to_Practice.pdf">PDF</a>.
     </li>
     <li>
-      All the references used for the case study presented in the guide can be found in the folder Case studies <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies">here</a>.
+      All the references used for the case study presented in the guide can be found in the folder <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies">Case studies</a>.
     </li>
   </ul>
 
@@ -62,9 +62,7 @@
   </ul>
   <h2 id="Case studies">Case studies</h2>
   <p>
-    A folder <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies">here</a> containing case studies presented in the scientific paper of the framework (the Hawaiian koa,
-	  Acacia_koa
-	  <i>Acacia koa</i> and the Black wildebeest, <i>Connochaetes gnou</i>) and in the Step-by-step guide (Western leopard toad, <i>Sclerophrys pantherina</i>).
+    A <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies">folder</a> containing case studies presented in the scientific paper of the framework (the <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies/Acacia_koa">Hawaiian Koa</a>, and the <a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies/Connochaetes_gnou">Black wildebeest</a>) and in the Step-by-step guide (<a href="https://github.com/iucn-CGSG/Subpop-ESU-Webtool/blob/main/Case_studies/Sclerophrys_pantherina">Western leopard toad</a>).
   </p>
 
   <ul>
